@@ -1,0 +1,16 @@
+Create a react application using the command 
+npx create-react-app frontend
+
+Move to frontend folder using the command
+cd frontend 
+
+Install the necessary module such as axios, bootstrap, react-router-dom using the following command
+npm install axios bootstrap@5 react-router-dom
+---------render.com---
+echo "# project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vbhagi7766/project.git
+git push -u origin main
